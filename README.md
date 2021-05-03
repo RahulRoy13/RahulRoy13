@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahulRoy13
-- 👀 I’m interested in electic vehicles
+- 👀 I’m interested in electric vehicles
 - 🌱 I’m currently learning electronics and communication
 - 💞️ I’m looking to collaborate on any projects regarding electric vehicles
 - 📫 How to reach me 
