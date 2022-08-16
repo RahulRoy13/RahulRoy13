@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulRoy13
 - 👀 I’m interested in electric vehicles
-- 🌱 I’m currently learning electronics and communication
-- 💞️ I’m looking to collaborate on any projects regarding electric vehicles
+- 🌱 I have completed my btech degree in electronics and communication engineering
+- 💞️ I’m looking to collaborate on any projects regarding electric vehicles and control Engineering
 - 📫 How to reach me 
             email: rohithsniper@gmail.com 
 
